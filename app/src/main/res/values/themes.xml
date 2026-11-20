@@ -1,7 +1,0 @@
-<resources>
-    <style name="Theme.OptiRest" parent="Theme.Material3.Dark.NoActionBar">
-        <item name="android:statusBarColor">@color/obsidian_bg</item>
-        <item name="android:navigationBarColor">@color/obsidian_bg</item>
-        <item name="android:windowBackground">@color/obsidian_bg</item>
-    </style>
-</resources>
